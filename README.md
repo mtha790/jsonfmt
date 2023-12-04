@@ -5,7 +5,7 @@ Simple JSON formatter for my personnal use. By default try to format all file wi
 
 Usage:
 ```
-gofmt -h
+jsonfmt -h
     -dir string
         The input directory (default ".")
     -pattern string
